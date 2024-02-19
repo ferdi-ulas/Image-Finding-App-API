@@ -86,4 +86,12 @@ button:hover {
   font-family: monospace;
   width: 75%;
   font-size: smaller;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: #fff;
+  margin-top: 525px;
 }/*# sourceMappingURL=style.css.map */
